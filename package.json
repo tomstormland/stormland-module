@@ -1,6 +1,6 @@
 {
   "name": "stormland-module",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://tomstormland@github.com/tomstormland/stormland-module.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tom Stormland <tomstormland@gmail.com> (https://webex-17ca5.firebaseapp.com/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tomstormland/stormland-module/issues"
